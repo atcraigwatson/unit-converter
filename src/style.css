@@ -1,0 +1,20 @@
+:root {
+  --color-primary: #6943ff;
+  --color-primary-light: #b295ff;
+  --color-primary-lighter: #ccc1ff;
+  --color-secondary: #273549;
+  --color-tertiary: #1f2937;
+  --color-white: #fefefe;
+  --color-black: #1c1c1c;
+
+  --font-family: "Inter", sans-serif;
+  --font-size-base: 1rem;
+  --font-size-h1: calc(var(--font-size-base) * 1.75);
+  --font-size-h2: calc(var(--font-size-base) * 1.25);
+
+  --btn-bg: var(--color-white);
+  --btn-color: var(--color-black);
+  --btn-padding: 14px 27.5px;
+  --btn-border-radius: 5px;
+}
+
